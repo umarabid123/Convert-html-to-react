@@ -14,7 +14,7 @@ const Hero = () => {
         </h1>
 
         <p class="h3">
-          Specialized in <abbr title="Accessibility">a11y</abbr>
+          Specialized in <abbr title="Accessibility">a11y </abbr>
           and Core Web Vitals
         </p>
 
